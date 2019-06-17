@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CSTest</string>
+    <string name="your_credit_score_is">Your credit score is</string>
+    <string name="out_of">out of&#160;</string>
+    <string name="error_ops">Ops! :(\nSomething went wrong</string>
+</resources>
